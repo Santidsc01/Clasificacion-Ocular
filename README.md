@@ -1,2 +1,2 @@
 # Clasificacion-Ocular
-![Banner](Banner/ojito.png)
+![Banner](Banner/ojito.jpg)
