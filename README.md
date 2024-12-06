@@ -29,5 +29,5 @@ Para la Densenet:<br>
 
 # Enlaces
 Repositorio: https://github.com/Santidsc01/Clasificacion-Ocular <br>
-Video:
-Diapositivas:
+Video: <br>
+Diapositivas: https://github.com/Santidsc01/Clasificacion-Ocular/blob/main/Diapositivas/IA2%20PROYECTO.pdf 
