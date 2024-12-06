@@ -28,3 +28,6 @@ Para la Densenet:<br>
 •	Precisión Numérica: FP16 para optimización en GPU.<br>
 
 # Enlaces
+Repositorio: https://github.com/Santidsc01/Clasificacion-Ocular <br>
+Video:
+Diapositivas:
