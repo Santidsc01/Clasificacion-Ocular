@@ -19,6 +19,8 @@ Miopía Patológica (M)<br>
 Otras enfermedades/anomalías (O)<br>
 
 # Modelos
+Para nuestro modelo propuesto: <br>
+
 Para la Densenet:<br>
 •	Red Preentrenada: DenseNet (Weights de ImageNet).<br>
 •	Capa de Adaptación: Pooling global (Global Average Pooling).<br>
@@ -30,4 +32,6 @@ Para la Densenet:<br>
 # Enlaces
 Repositorio: https://github.com/Santidsc01/Clasificacion-Ocular <br>
 Video: <br>
+Modelo Propuesto: <br>
+Modelo Densenet: https://github.com/Santidsc01/Clasificacion-Ocular/blob/main/Densenet/densenet.ipynb <br>
 Diapositivas: https://github.com/Santidsc01/Clasificacion-Ocular/blob/main/Diapositivas/IA2%20PROYECTO.pdf 
