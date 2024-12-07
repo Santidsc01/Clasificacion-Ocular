@@ -31,7 +31,7 @@ Para la Densenet:<br>
 
 # Enlaces
 Repositorio: https://github.com/Santidsc01/Clasificacion-Ocular <br>
-Video: <br>
-Modelo Propuesto: <br>
+Video: https://youtu.be/NQX4QmIfjdI <br>
+Modelo Propuesto: https://github.com/Santidsc01/Clasificacion-Ocular/blob/main/Propuesto/modelo-propuesto-ia.ipynb <br>
 Modelo Densenet: https://github.com/Santidsc01/Clasificacion-Ocular/blob/main/Densenet/densenet.ipynb <br>
 Diapositivas: https://github.com/Santidsc01/Clasificacion-Ocular/blob/main/Diapositivas/IA2%20PROYECTO.pdf 
