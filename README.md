@@ -20,6 +20,11 @@ Otras enfermedades/anomalías (O)<br>
 
 # Modelos
 Para nuestro modelo propuesto: <br>
+•	Bloques Convolucionales .<br>
+•	Capa de Adaptación: Max Pooling.<br>
+•	Clasificación: Capa totalmente conectada (Fully Connected Layer).<br>
+•	Optimización: AdamW con tasa de aprendizaje ajustable.<br>
+•	Técnicas de Mejora: Balanceo de clases, aumento de datos.<br>
 
 Para la Densenet:<br>
 •	Red Preentrenada: DenseNet (Weights de ImageNet).<br>
